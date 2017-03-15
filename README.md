@@ -7,7 +7,7 @@ So you don't need to restart your device.
 
 THIS APP NEEDS ROOT ACCESS TO KILL CAMERA PROCESSES
 
-![Screenshot](device-2017-03-15-163207.png?raw=true =300x "Pretty Simple!")
+![Screenshot](device-2017-03-15-163207.png =300x "Pretty Simple!")
 
 Copyright (C) 2017 Aario Shahbany
     This program is free software: you can redistribute it and/or modify
